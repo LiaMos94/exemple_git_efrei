@@ -6,4 +6,5 @@ on fait des test
 
 feature : conflit test
 
-encore une phrase askip
+
+encore une phrase de plus
