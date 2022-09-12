@@ -5,3 +5,5 @@ ceci est le deuxieme message de projet
 on fait des test
 
 feature : conflit test
+
+encore une phrase 
