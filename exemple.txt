@@ -6,4 +6,4 @@ on fait des test
 
 feature : conflit test
 
-encore une phrase 
+encore une phrase de plus
