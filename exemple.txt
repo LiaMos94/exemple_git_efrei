@@ -7,3 +7,9 @@ on fait des test
 feature : conflit test
 
 encore une phrase de plus
+
+victor est beau
+
+baggy roi des pirates
+
+rhum pomme pomme pomme
